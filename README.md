@@ -1,6 +1,6 @@
-# Object Oriented Hangman
+# Object Oriented Word Master
 
-A user-friendly game of Hangman created in C++. Staple mechanisms such as save slots, difficulty and topic were included. Unit tests were performed for regression testing. Integration tests were performed manually.
+A user-friendly game of Word Master created in C++. Staple mechanisms such as save slots, difficulty and topic were included. Unit tests were performed for regression testing. Integration tests were performed manually.
 
 ## **Features**
 
