@@ -19,11 +19,11 @@ To compile the project, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/Caitlin-Schaefer/OOP-Hangman.git
+   git clone https://github.com/Caitlin-Schaefer/WordMaster.git
    ```
 3. Navigate to the project directory:
    ```
-   cd OOP-Hangman/CPP\ Files
+   cd OOP-WordMaster/CPP\ Files
    ```
 4. Run the following command to compile the project:
    ```
