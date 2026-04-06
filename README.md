@@ -19,7 +19,7 @@ To compile the project, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/Luke-Schaefer/OOP-Hangman.git
+   git clone https://github.com/Caitlin-Schaefer/OOP-Hangman.git
    ```
 3. Navigate to the project directory:
    ```
